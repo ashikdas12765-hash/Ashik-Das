@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FriendZone</string>
+    <string name="language_english">English</string>
+    <string name="language_bengali">বাংলা</string>
+    <string name="language_toggle_cd">Switch language between English and Bengali</string>
+    <string name="language_switched_en">Language switched to English</string>
+    <string name="language_switched_bn">Language switched to Bengali (বাংলা)</string>
+</resources>

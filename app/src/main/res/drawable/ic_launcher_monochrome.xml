@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer rounded-square camera frame (46dp centered inside 66dp safe zone) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="4.6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M43,31 L65,31 C71.627,31 77,36.373 77,43 L77,65 C77,71.627 71.627,77 65,77 L43,77 C36.373,77 31,71.627 31,65 L31,43 C31,36.373 36.373,31 43,31 Z" />
+    <!-- Center circular camera lens -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="4.6"
+        android:pathData="M54,42.5 A11.5,11.5 0 1,1 53.99,42.5 Z" />
+    <!-- Top-right flash dot -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M67.2,37.8 A2.9,2.9 0 1,1 67.19,37.8 Z" />
+</vector>

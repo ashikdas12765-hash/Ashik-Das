@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix FriendZone",
+  "description": "Connect, share, and discover moments with FriendZone — a modern social media app with English and Bengali language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

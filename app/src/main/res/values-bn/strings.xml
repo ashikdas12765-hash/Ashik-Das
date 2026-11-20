@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FriendZone</string>
+    <string name="language_english">English</string>
+    <string name="language_bengali">বাংলা</string>
+    <string name="language_toggle_cd">ভাষা পরিবর্তন করুন (English / বাংলা)</string>
+    <string name="language_switched_en">ভাষা English-এ পরিবর্তিত হয়েছে</string>
+    <string name="language_switched_bn">ভাষা বাংলায় পরিবর্তিত হয়েছে</string>
+</resources>
